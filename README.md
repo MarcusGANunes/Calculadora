@@ -1,0 +1,1 @@
+Essa é uma calculadora para numeros grandes. Ela aceita 2 números inteiros e não negativos de até 100 caracteres e retorna a soma e produto deles.
